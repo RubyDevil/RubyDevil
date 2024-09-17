@@ -4,3 +4,5 @@
     <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=RubyDevil&theme=transparent&hide_border=true"/></th>
   </tr>
 </div>
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=RubyDevil)]
