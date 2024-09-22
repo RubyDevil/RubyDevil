@@ -1,6 +1,6 @@
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: stretch; width: 100%;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: start; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=RubyDevil&theme=transparent&hide_border=true&card_width=287&hide_rank=true">
-  <img max-width: 33.33%" src="https://github-readme-streak-stats.herokuapp.com?user=RubyDevil&theme=transparent&hide_border=true&card_width=270&hide_longest_streak=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RubyDevil&theme=transparent&hide_border=true&card_width=270&hide_longest_streak=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubyDevil&theme=transparent&hide_border=true&card_width=280&layout=compact&langs_count=6">
 </div>
 
